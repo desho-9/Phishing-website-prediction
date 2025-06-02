@@ -80,7 +80,7 @@ Four potential algorithms were considered for this classification task:
 
 * **Confusion Matrix**:
   
-   ![Confusion Matrix](Images/Confusion Matrix.png)
+   ![Confusion Matrix](Images/ConfusionMatrix.png)
 
   Demonstrates how well the classifier distinguished between phishing and legitimate instances.
 
