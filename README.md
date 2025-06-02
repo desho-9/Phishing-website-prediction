@@ -79,11 +79,13 @@ Four potential algorithms were considered for this classification task:
 ## 📊 Model Evaluation and Visualization
 
 * **Confusion Matrix**:
-![Confusion Matrix](Images/Confusion Matrix.png)
+  
+   ![Confusion Matrix](Images/Confusion Matrix.png)
 
   Demonstrates how well the classifier distinguished between phishing and legitimate instances.
 
 * **PCA Feature Importance Chart**:
+  
    ![PCA Feature Importance](Images/PCA.png)
   
   Shows how much variance each principal component explains. This visualization is useful to demonstrate the effect of dimensionality reduction during the presentation.
