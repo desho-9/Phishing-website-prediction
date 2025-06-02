@@ -1,5 +1,3 @@
-# Phishing-website-prediction
-
 # Phishing Website Prediction Using Predictive Analytics
 
 ## 📌 Introduction
@@ -78,14 +76,16 @@ Four potential algorithms were considered for this classification task:
 
 * **Model Accuracy**: The Random Forest model achieved an accuracy of **96.16%**
 
-  
-
 ## 📊 Model Evaluation and Visualization
 
 * **Confusion Matrix**:
+![Confusion Matrix](Images/Confusion Matrix.png)
+
   Demonstrates how well the classifier distinguished between phishing and legitimate instances.
 
 * **PCA Feature Importance Chart**:
+   ![PCA Feature Importance](Images/PCA.png)
+  
   Shows how much variance each principal component explains. This visualization is useful to demonstrate the effect of dimensionality reduction during the presentation.
 
 
